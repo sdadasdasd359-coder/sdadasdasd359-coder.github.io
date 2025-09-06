@@ -1,0 +1,93 @@
+.feda{
+    text-align: center;color: chartreuse;
+}
+.feda2{
+    text-align: center;
+}
+.feda3{
+   text-align: center;color: brown;
+}
+.feda4{
+    text-align: center;color: rgb(226, 14, 155);font-size: 200%;
+}
+.feda5{
+    text-align: center;color: rgb(226, 14, 155);font-size: 175%;
+}
+.aa{
+    text-align: center;color: rgb(226, 14, 155);
+}
+.aa1{
+    text-align:center;border-radius:20px;
+}
+.dd{
+  background-image: url(dimdim.jpg); 
+  background-repeat: no-repeat; 
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+.dd2{
+  background-image: url(deb.jpg); 
+  background-repeat: no-repeat; 
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+.fed{
+    font-size: 32px;
+}
+body{
+            font-family: 'Courier New', Courier, monospace;
+        }
+
+
+        .fed6{
+            text-align: left;
+            padding: 16px;
+            background-color: rgba(53, 52, 52, 0.39);
+            border-radius: 20px;
+           text-decoration: none;
+            font-size: 35px;
+        }
+                   div a:hover {
+  background-color: #111111;
+  padding: 20px;
+    }
+        .fed1{
+            margin: 10px;
+            text-decoration: none;
+            color: rgb(0, 0, 0);
+        }
+
+        .fed3{
+            margin: 10px;
+            text-decoration: none;
+            color: rgb(0, 0, 0);
+        }
+        .fed4{
+            margin: 10px;
+            text-decoration: none;
+            color: rgb(0, 0, 0);
+        }
+        .fed8{
+            margin: 10px;
+            text-decoration: none;
+            color: rgb(0, 0, 0);
+        }
+
+        .fed1:hover{
+            background-color: rgb(88, 86, 86);
+            padding: 10px;
+        }
+
+        .fed3:hover{
+            background-color: rgb(88, 86, 86);
+            padding: 10px;
+        }
+
+        .fed4:hover{
+            background-color: rgb(88, 86, 86);
+        }
+
+        .fed8:hover{
+            background-color: rgb(88, 86, 86);
+            padding: 10px;
+        }
